@@ -17,7 +17,9 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  - jekyll-feed 
+  # - github-pages, group :jekyll-plugins  #haatest
+remote_theme: "mmistakes/so-simple-theme"
 
 kramdown:
   input: GFM
