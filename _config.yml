@@ -18,7 +18,7 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed 
-  # - github-pages, group :jekyll-plugins  #haatest
+  - github-pages, group :jekyll-plugins  #haatest
 remote_theme: "mmistakes/so-simple-theme"
 
 kramdown:
