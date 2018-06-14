@@ -4,6 +4,7 @@ title: Critical Digital Archives
 locale: en_US
 description: Fall 2018, University of Texas at Austin
 logo: aas_coin.png
+baseurl: criticalarchives
 url: https://halperta.com/criticalarchives
 # url: http://localhost:4000 #comment out when going live
 
