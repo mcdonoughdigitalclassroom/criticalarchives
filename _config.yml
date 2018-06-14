@@ -1,10 +1,11 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Critical Digital Archives
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
-logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+description: Fall 2018, University of Texas at Austin
+logo: aas_coin.png
+# url: https://halperta.com/criticalarchives
+url: http://localhost:4000 #comment out when going live
 
 # Jekyll configuration
 
@@ -37,24 +38,24 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  name: Hannah Alpert-Abrams
+  avatar: HannahRed.jpg
+  email: h.alpert-abrams@austin.utexas.edu
+  # disqus-shortname: sosimpletheme
+  twitter: hralperta
+  # facebook: michaelrose
+  github: halperta
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: 
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
-  google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  # google:
+  #   plus: MichaelRoseDesign
+  #   analytics: UA-2011187-2
+  #   verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+  #   ad-client: ca-pub-7328585512091257
+  #   ad-slot: 7855747535
+  # bing-verify: D81F4C18A6CB3018F64D7C827D953DFD

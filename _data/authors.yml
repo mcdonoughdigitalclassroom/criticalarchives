@@ -1,20 +1,20 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+halperta:
+  name: Hannah Alpert-Abrams
+  web: http://www.halperta.com
+  email: h.alpert-abrams@austin.utexas.edu
+  bio: CLIR Postdoctoral Fellow in Data Curation and Latin American Studies
+  avatar: HannahRed.jpg
+  twitter: hralperta
   google:
-    plus: BillyRick
+    plus: 
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+kmcdonough:
+  name: Kelly McDonough
+  email: kelly.mcdonough@austin.utexas.edu
+  bio: Associate Professor, Department of Spanish and Portuguese
+  avatar: 
+  twitter: 
   google:
-    plus: CorneliusFiddlebone
+    plus: 
