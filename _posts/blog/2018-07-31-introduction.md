@@ -10,9 +10,9 @@ image:
 ---
 Welcome to "Critical Digital Archives," a graduate seminar taught by Kelly McDonough and Hannah Alpert-Abrams. 
 
-Looking for the syllabus? Follow these links for the [schedule](schedule.html) and [assignments](assignments.html). 
+Looking for the syllabus? Follow these links for the [schedule](../schedule) and [assignments](assignments.html). 
 
-Want to find out about office hours and faculty contact information? Check out the [instructors page](instructors.html). 
+Want to find out about office hours and faculty contact information? Check out the [instructors page](../instructors). 
 
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
