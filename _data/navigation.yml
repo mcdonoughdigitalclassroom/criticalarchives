@@ -3,21 +3,21 @@
 - title: About
   url: /about/
 
-- title: Instructors
-  url: /instructors/
+# - title: Instructors
+#   url: /instructors/
 
 - title: Schedule
   url: /schedule/
 
-- title: Resources
-  url: /resources/
+# - title: Resources
+#   url: /resources/
 
 
-# - title: Articles
-#   url: /articles/
+- title: Assignments
+  url: /assignments/
 
-# - title: Blog
-#   url: /blog/
+- title: Blog
+  url: /blog/
 
 # - title: Theme Setup
 #   url: /theme-setup/
