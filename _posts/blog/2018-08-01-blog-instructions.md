@@ -86,7 +86,10 @@ Links:
 
 Line Breaks:  
 	End the previous line with two spaces,  
-	then begin writing on the following line to create a line break.
+	then begin writing on the following line to create a line break.  
+
+Accents:  
+	Accents and other diacritics are created á
 
 ```
 
