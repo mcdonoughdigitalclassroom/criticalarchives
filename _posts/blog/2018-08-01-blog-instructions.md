@@ -90,8 +90,7 @@ Line Breaks:
 
 Accents:  
 	Accents and other diacritics (á, ñ, ü)  
-	can be typed into the text as normal,  
-	or you can use [html codes](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references).
+	can be typed into the text as normal.
 
 Lists:
 	Use 
