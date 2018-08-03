@@ -31,8 +31,15 @@ To learn how to install and use this theme check out the [Setup Guide](http://mm
 ## Critical Archives Notes
 
 To preview  or to go live:
-* in config.yml: update URL
-* in command line: bundle exec jekyll serve --watch
+* in config.yml: comment out base url. (this may not be necessary)
+* run bundle exec jekyll serve
+* navigate to http://localhost:4000/ 
+
+to add authors
+* _data/authors.yml
+
+to edit top menu
+* _data/navigation.yml
 
 
 
