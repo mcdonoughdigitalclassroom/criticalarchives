@@ -3,7 +3,7 @@ layout: post
 title: "Making a Blog Post"
 modified:
 categories: blog
-excerpt:
+excerpt: In this course, you will be invited to share a critical reflection with the public on this course website.  
 tags: []
 author: kmcdonough
 image:
