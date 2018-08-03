@@ -89,7 +89,19 @@ Line Breaks:
 	then begin writing on the following line to create a line break.  
 
 Accents:  
-	Accents and other diacritics are created á
+	Accents and other diacritics (á, ñ, ü)  
+	can be typed into the text as normal,  
+	or you can use [html codes](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references).
+
+Lists:
+	Use 
+		* text
+	to create a disordered list.
+	Use 
+		1. text
+		2. text 
+		3. text 
+	to create an ordered list.
 
 ```
 
