@@ -9,12 +9,11 @@
 - title: Schedule
   url: /schedule/
 
-- title: Resources
-  url: /resources/
-
-
 - title: Assignments
   url: /assignments/
+
+- title: Resources
+  url: /resources/
 
 - title: Blog
   url: /blog/
