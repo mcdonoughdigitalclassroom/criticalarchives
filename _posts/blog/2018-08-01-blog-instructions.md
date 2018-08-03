@@ -27,7 +27,7 @@ You'll need to create an author ID for the website so that your blog post can be
 1. Navigate to: [https://github.com/halperta/criticalarchives/blob/gh-pages/_data/authors.yml](https://github.com/halperta/criticalarchives/blob/gh-pages/_data/authors.yml)
 2. **Important:** Change the branch from `gh-pages-2.3.4` to `gh-pages`. To do this, find the drop-down menu that says "branch" near the top of the page.
 3. Open the file for editing by selecting the pen icon in the upper right corner of the document. 
-4. Copy and paste the biographical information of the previous person, replacing as much of it as you'd like with your own info. At the very least, you should add a single-word author id, as well as your name. If you want to have a photograph of yourself to link to the page, enter the file name of the image, including the extension, under "avatar" (you'll upload the image later). It should look something like this:  
+4. Copy and paste the biographical information of the previous person, replacing as much of it as you'd like with your own info. At the very least, you should add a single-word author id, as well as your name. If you want to have a photograph of yourself to link to the page, enter the file name of the image, including the extension, under "avatar." It should look something like this:  
 
     authorid: oneword  
     	name: Enter Name Here  
@@ -43,6 +43,8 @@ You'll need to create an author ID for the website so that your blog post can be
 	2. Click "propose file change."
 
 6. **Merge your changes:** Select "Create Pull Request" to propose your changes. The admin will approve your changes before the site goes live.
+
+*7. (Optional): If you want to include an author photo, please email it to Hannah for uploading!*
 
 ## Step 3: Write your blog post in markdown.
 
